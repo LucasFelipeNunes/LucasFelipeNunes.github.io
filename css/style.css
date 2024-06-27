@@ -24,6 +24,10 @@ main{
     background-color: darkblue;
 }
 
+.secondary-bg{
+    background-color: yellow;
+}
+
 .hover-buttons:hover{
     background-color: #000060;
 }
